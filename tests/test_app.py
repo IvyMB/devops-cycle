@@ -1,4 +1,4 @@
-from app.app import say_hello
+from app.main import say_hello
 
 
 def test_hello_world():
